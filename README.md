@@ -32,6 +32,7 @@ You only do this once. Later versions will be notarized and open straight away.
 - **Nothing is deleted until you've seen it.** Open any row to see every path, then press **Review and clean**.
 - Build folders are only suggested if git ignores them, nothing inside changed for two days, and no dev server is running in that project. Each one is checked again just before it's removed.
 - Every clean writes a plain-text log of each path to `~/Library/Logs/Plumb`.
+- **Large and old files** also lists videos, audio and photo exports you haven't opened in a year. They're never ticked or counted, because they may be your only copy.
 - **Full Disk Access** is optional. It lets Plumb measure Mail, Messages and Safari data. Without it, Plumb says what it couldn't measure.
 
 The **menu-bar panel** shows free space, dev servers you can stop, apps by memory, your network and connected devices. Turn it on or off in Settings.
