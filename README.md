@@ -35,7 +35,7 @@ You only do this once. Later versions will be notarized and open straight away.
 - **Large and old files** also lists videos, audio and photo exports you haven't opened in a year. They're never ticked or counted, because they may be your only copy.
 - **Full Disk Access** is optional. It lets Plumb measure Mail, Messages and Safari data. Without it, Plumb says what it couldn't measure.
 
-The **menu-bar panel** shows free space, dev servers you can stop, apps by memory, your network and connected devices. Turn it on or off in Settings.
+The **menu-bar icon**'s dial shows how full your disk is; hover over it to see the free space. Click it for a panel with free space, dev servers you can stop, apps by memory, your network and connected devices. Turn it on or off in Settings.
 
 The **tools** in the sidebar (Ports and servers, Disk map, Projects, Toolchains, Docker, Startup items, Secrets check and Growth watch) each explain themselves on their page.
 
